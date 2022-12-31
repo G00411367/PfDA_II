@@ -1,1 +1,25 @@
-# PfDA_II
+# Programming for Data Analysis Project II
+
+## Investigate the Wisconsin Breast Cancer dataset
+
+
+## System Requirement
+
+To run the notebook on a local machine it is required to have Python installed.
+
+It is also required a command line. For this project, we will be using Commander.
+
+It is reccomended to use Anaconda for Python installation.
+
+## Running Jupyter notebook
+
+- Go to wisconsin_ana.ipynb in repository 
+- Clone the repository to local machine 
+- Open command line on the local machine or Cmder for Windows
+- Navigate to the apropiate directory containg the cloned repository
+- Type jupyter notebook to initiate the Jupyter web browser
+- Open the file wisconsin_ana.ipynb
+
+## License
+
+GNU licence
